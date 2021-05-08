@@ -1,4 +1,4 @@
-from homework3 import problem2
+from part1.homework3 import problem2
 
 
 class PersonWithExceptions(problem2.Person):
